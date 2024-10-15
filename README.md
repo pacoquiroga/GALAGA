@@ -32,7 +32,7 @@ Este proyecto es un videojuego de escritorio inspirado en el clásico arcade Gal
 
 1. Clona el repositorio en tu máquina local:
 ```
-git clone https://github.com/Augusto120204/Galaga.git
+https://github.com/pacoquiroga/GALAGA.git
 ```
 2. Abre el proyecto con Visual Studio.
 3. Ejecuta el proyecto desde Visual Studio.

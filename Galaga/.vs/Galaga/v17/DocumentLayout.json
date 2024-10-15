@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{342A3E4B-D1DF-4097-B4A2-0ED1A4F2C471}|Galaga\\Galaga.csproj|c:\\users\\paqui\\desktop\\espe\\quinto_semestre\\grafica\\segunco parcial\\galaga-main\\galaga\\galaga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342A3E4B-D1DF-4097-B4A2-0ED1A4F2C471}|Galaga\\Galaga.csproj|solutionrelative:galaga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342A3E4B-D1DF-4097-B4A2-0ED1A4F2C471}|Galaga\\Galaga.csproj|C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\galaga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{342A3E4B-D1DF-4097-B4A2-0ED1A4F2C471}|Galaga\\Galaga.csproj|solutionrelative:galaga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342A3E4B-D1DF-4097-B4A2-0ED1A4F2C471}|Galaga\\Galaga.csproj|C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\galaga\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342A3E4B-D1DF-4097-B4A2-0ED1A4F2C471}|Galaga\\Galaga.csproj|solutionrelative:galaga\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342A3E4B-D1DF-4097-B4A2-0ED1A4F2C471}|Galaga\\Galaga.csproj|C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\galaga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342A3E4B-D1DF-4097-B4A2-0ED1A4F2C471}|Galaga\\Galaga.csproj|solutionrelative:galaga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342A3E4B-D1DF-4097-B4A2-0ED1A4F2C471}|Galaga\\Galaga.csproj|C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\galaga\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342A3E4B-D1DF-4097-B4A2-0ED1A4F2C471}|Galaga\\Galaga.csproj|solutionrelative:galaga\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342A3E4B-D1DF-4097-B4A2-0ED1A4F2C471}|Galaga\\Galaga.csproj|C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\galaga\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342A3E4B-D1DF-4097-B4A2-0ED1A4F2C471}|Galaga\\Galaga.csproj|solutionrelative:galaga\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342A3E4B-D1DF-4097-B4A2-0ED1A4F2C471}|Galaga\\Galaga.csproj|C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\galaga\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342A3E4B-D1DF-4097-B4A2-0ED1A4F2C471}|Galaga\\Galaga.csproj|solutionrelative:galaga\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Juego.cs",
+              "DocumentMoniker": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\Galaga\\Juego.cs",
+              "RelativeDocumentMoniker": "Galaga\\Juego.cs",
+              "ToolTip": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\Galaga\\Juego.cs",
+              "RelativeToolTip": "Galaga\\Juego.cs",
+              "ViewState": "AQIAABoBAAAAAAAAAAAAAPYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:19:05.681Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\Galaga\\Form1.cs",
+              "RelativeDocumentMoniker": "Galaga\\Form1.cs",
+              "ToolTip": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\Galaga\\Form1.cs",
+              "RelativeToolTip": "Galaga\\Form1.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAswHoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:44:04.226Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\Galaga\\Program.cs",
+              "RelativeDocumentMoniker": "Galaga\\Program.cs",
+              "ToolTip": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\Galaga\\Program.cs",
+              "RelativeToolTip": "Galaga\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:04:49.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\Galaga\\Jugador.cs",
+              "RelativeDocumentMoniker": "Galaga\\Jugador.cs",
+              "ToolTip": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\Galaga\\Jugador.cs",
+              "RelativeToolTip": "Galaga\\Jugador.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAswBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:45:31.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\Galaga\\Form1.cs",
+              "RelativeDocumentMoniker": "Galaga\\Form1.cs",
+              "ToolTip": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\Galaga\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Galaga\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:18:58.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\Galaga\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Galaga\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\Galaga\\Form1.Designer.cs",
+              "RelativeToolTip": "Galaga\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:16:35.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemigo.cs",
+              "DocumentMoniker": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\Galaga\\Enemigo.cs",
+              "RelativeDocumentMoniker": "Galaga\\Enemigo.cs",
+              "ToolTip": "C:\\Users\\paqui\\Desktop\\ESPE\\QUINTO_SEMESTRE\\GRAFICA\\SEGUNCO PARCIAL\\Galaga-main\\Galaga\\Galaga\\Enemigo.cs",
+              "RelativeToolTip": "Galaga\\Enemigo.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwGUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:19:47.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
